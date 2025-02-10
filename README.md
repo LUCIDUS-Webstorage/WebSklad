@@ -1,3 +1,1 @@
-# Skuskovy-repozitar
-
-skuska
+# Oficialny repozitár WebSkladu
